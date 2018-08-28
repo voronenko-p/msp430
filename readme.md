@@ -13,4 +13,11 @@ IDE
 
 http://docs.platformio.org/en/latest/ide/vscode.html
 
+```
+sudo ln -s $PWD/.platformio/penv/bin/platformio /usr/local/bin/platformio
+sudo ln -s $PWD/.platformio/penv/bin/pio /usr/local/bin/pio
+sudo ln -s $PWD/.platformio/penv/bin/piodebuggdb /usr/local/bin/piodebuggdb
+```
+
+
 http://energia.nu/
